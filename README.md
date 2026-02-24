@@ -2,23 +2,25 @@
 
 **Finance Manager | FP&A | Asset Liability Management (ALM) | Interest Rate Risk | Machine Learning | Applied Analytics**
 
-Finance Manager leading financial planning and analysis for a $1.5B+ credit union, with over a decade of experience across FP&A, treasury, ALM, compliance, and incentive analytics at institutions including Axos Bank, BofI Federal Bank, and Cetera Financial Group. Focused on applying machine learning and advanced analytics to problems in lending, risk measurement, and financial decision-making. Currently pursuing graduate-level coursework in data science to formalize and extend a career-long foundation in data-driven financial analysis.
+Finance Manager leading financial planning and analysis for a $1.5B+ credit union, with over a decade of experience across FP&A, treasury, ALM, compliance, and incentive analytics. Focused on applying machine learning and advanced analytics to problems in lending, risk measurement, and financial decision making. 
+
+Currently pursuing graduate level coursework in data science to formalize and extend a career long foundation in data driven financial analysis.
 
 ## Background
 
-Over ten years of progressive experience in financial institutions — from treasury operations and ALM at a publicly traded bank to enterprise FP&A and ALCO reporting at a $1.5B+ credit union. Consistent theme across every role: building models, interpreting complex data, and translating results into decisions that leadership can act on.
+Over ten years of progressive experience in financial institutions from treasury operations and ALM at a publicly traded bank to enterprise FP&A and ALCO reporting at a $1.5B+ credit union. Consistent theme across every role: building models, interpreting complex data, and translating results into decisions that leadership can act on.
 
-Currently applying that foundation to graduate-level machine learning, with a focus on problems that sit at the intersection of finance, lending, and public policy — where analytical rigor has real organizational and community impact.
+Currently applying that foundation to graduate level machine learning, with a focus on problems that sit at the intersection of finance, lending, and public policy where analytical rigor has real organizational and community impact.
 
 **Education**
+- Graduate Coursework — MS, Data Science (In Progress)
 - B.A. Economics — California State University San Marcos
-- Graduate Coursework — Data Science & Machine Learning (in progress)
 - Certified Credit Union Investment Professional (CCUIP) — CUNA, 2023
 - Fair Lending Expert (FLE) — Tuscan Club University, 2022
 
 ---
 
-[LinkedIn](https://linkedin.com/in/jordanmitchell)
+[Jordan Mitchell - LinkedIn](https://linkedin.com/in/jordanmitchell)
 
 ## Skills & Tools
 
