@@ -20,7 +20,7 @@ Currently applying that foundation to graduate level machine learning, with a fo
 
 ---
 
-[Jordan Mitchell - LinkedIn](https://linkedin.com/in/jordanmitchell)
+[LinkedIn (Jordan Mitchell)](https://linkedin.com/in/jordanmitchell)
 
 ## Skills & Tools
 
