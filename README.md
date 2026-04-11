@@ -1,7 +1,5 @@
 # Jordan
 
-## Background
-
 ## Skills & Tools
 
 | Area | Tools & Experience |
